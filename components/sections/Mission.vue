@@ -16,6 +16,7 @@
         </div>
       </div>
       <!-- /About -->
+
       <!-- How -->
       <div class="row p-bottom--xx-large">
         <div class="col xs9 offset-xl1">
@@ -39,6 +40,7 @@
         </div>
       </div>
       <!-- /How -->
+
       <!-- Contact Us -->
       <div class="row">
         <div class="col xs9 xl2 offset-xl7">
@@ -46,6 +48,7 @@
         </div>
       </div>
       <!-- Contact Us -->
+      
       <!-- Modal -->
       <ContactModal v-show="isModalVisible" v-on:close="closeModal"/>
       <!-- /Modal -->

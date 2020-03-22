@@ -16,7 +16,7 @@
                     <li>Work with our collaborators, vendors, and members to design and implement electrical-mechanical systems, including but not limited to the mechatronic design of the robot base, body, manipulator, sensors, actuators, grippers, connectors, power supply.</li>
                     <li>Test and debug overall systems ensuring performance of the hardware and the embedded software.</li>
                     <li>Manage relationships with our key external vendors. </li>
-                    <li>Work as an internal expert across all WAVEMAKER LABS portfolio companies.</li>
+                    <li>Work as an internal expert across all Wavemaker LABS portfolio companies.</li>
                     <li>Build connections and collaborations with industrial partners and academic institutions (as needed).</li>
                     <li>Domestic and international travel may be required for internal meetings, external technical meetings, conferences, and partner discussions. </li>
                 </ul>
