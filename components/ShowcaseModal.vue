@@ -12,8 +12,7 @@
                 <source src="~/static/FLIPPYGOESBLUE_Vimeo_withmusic_compressed.mp4" type="video/mp4">
             </video>
           </div>
-        </div>
-        <!-- <div class="modal__footer"></div> -->
+        </div>        
       </div>
     </div>
   </transition>
@@ -30,10 +29,10 @@ export default {
   methods: {
     close() {
       let showcaseVidRef = this.showcaseRef;
-      // Pause Video
-      this.$refs[showcaseVidRef].pause();
-      // Close Modal
-      this.$emit("close");
+      
+      this.$refs[showcaseVidRef].pause(); // Pause Video
+      
+      this.$emit("close"); // Close Modal
     }
   }
 };
@@ -126,6 +125,7 @@ video {
     font-size: 3rem;
   }
 }
+
 
 // Modal Transition
 .modal-fade-enter {
